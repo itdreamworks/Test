@@ -1,2 +1,4 @@
 start
 Linux 第一次输入信息
+Linux 第二次输入信息
+
